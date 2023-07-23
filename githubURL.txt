@@ -1,0 +1,11 @@
+# Teaching video
+Learning video URL(B站):https://www.bilibili.com/video/BV1pW411A7a5?p=33&spm_id_from=pageDriver
+# Local repository
+local directory:E:\Program\GitToGitHubE:\Program\GitToGitHub
+# GitHub Address
+GitHub URL:https://github.com/SmallGarden/hello-world
+# GitHub account information
+270717808@qq.com
+swjtutao@163.com --collaborator --colaborator2
+
+you can store sonmething here!
