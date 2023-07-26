@@ -16,3 +16,4 @@
 999999 master test
 999999 hot-fix test
 go go go go go go
+collaboration outside the team
